@@ -5,3 +5,5 @@ Tech Stack : HTML
 - Halaman Beranda Menjelaskan Pengantar Perusahaan
 - Halaman Profil Perusahaan Menjelaskan Layanan Perusahaan
 - Terdapat Link untuk berpindah halaman antara beranda dengan profil perusahaan
+
+Berikut Link Websitenya : https://tugas1-magang-pt-ousean-global-digi.vercel.app/ 
