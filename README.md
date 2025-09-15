@@ -1,6 +1,7 @@
 Tugas 2 Magang PT Ousean Global Digital
 
 Website Company Profile
+
 - Tech Stack : HTML & CSS
 - Profil Perusahaan Mengambil dari PT Ousean Global Digital
 - Terdiri dari 2 halaman : Beranda dan Profil Perusahaan
